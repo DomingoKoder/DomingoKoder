@@ -8,7 +8,6 @@
 🌍 I'm based in Lublin, Poland  
 🌱 Actually diving deep into the world of DevOps, coding and systems.  
 📝 Preparing for RedHat Linux and Kubernetes certification.  
-[My credly](https://www.credly.com/users/dominik-zarzeczny)
 
  Daily I weave automation into network infrastructure with tools like:  
  
