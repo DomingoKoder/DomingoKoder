@@ -3,7 +3,7 @@
  My name is Dominik  
   
   I'm a Network Engineer and I think that networks power the  world 🌍  
-  But code makes them smarter, faster and more resilient.  
+  But code makes them smarter, faster and more resilient 🚀
 
 🌍 I'm based in Lublin, Poland  
 🌱 Actually diving deep into the world of DevOps, coding and systems.  
